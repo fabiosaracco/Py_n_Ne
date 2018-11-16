@@ -1,9 +1,58 @@
-# Py_n_Ne, AA 2018/2019
-Python and Network class @IMT Lucca
+# Py_n_Ne 
+AA 2018/2019) Python and Network class @IMT Lucca
 
 The course intend to provide an introduction to programming in python. The application are going to be application to the analysis of complex networks.
 
-## Useful links (_"When you need a hand, take a look at the end of your arm."_, **Ancient Chinese Proverb**)
+## Structure of the course (more for Fabio than for others...)
+Lesson 0.5) Where are we?
+   - what is Python
+   - Conda and virtual environments
+   - Github
+
+Lesson 1.) Basics:
+   - List
+   - Dictionaries
+   - Strings 
+   - Loops
+   
+Lesson 2.) Numpy:
+   - load an edgelist
+   - obtain the adjacency matrix
+   - calculate the degree sequence
+   - calculate the clustering coefficient
+   - calculate the diameter of the network (or something equally odd)
+   - save everything somewhere
+   - Extra:
+           * vector with structured data
+           * pandas (pandas exist; representation of data; search; play with rows and columns)
+           
+Lesson 3.) Axis: matplotlib 
+   - Structure of a matplotlib plot
+   - multigraph
+   - colors
+   - legend
+   - jupyter widgets
+
+Lesson 4.) Networkx: You've got a Friend in me
+
+   - something to calculate
+   - something to plot
+    (the Chessa notebook can be re-used)
+   - write a Louvain community detection
+   - Extra: python-igraph, the package of the beast (community detection)
+   
+Lesson 5.) Harvest: request and BeautifulSoup
+
+   - examining the structure of a webpage
+   - handling the exceptions
+   - how to get the data we worked on
+
+
+
+
+## Useful links 
+_"When you need a hand, take a look at the end of your arm."_, **Ancient Chinese Proverb**
+
 ### A (FREE!) textbook to start with:
 [Automate the Boring Stuff with Python, by Al Sweigart](https://automatetheboringstuff.com/)
 
