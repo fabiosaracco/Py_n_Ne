@@ -26,14 +26,14 @@ Lesson 2.) Numpy:
            * vector with structured data
            * pandas (pandas exist; representation of data; search; play with rows and columns)
            
-Lesson 3.) Axis: matplotlib 
+Lesson 3.) Matplotlib 
    - Structure of a matplotlib plot
    - multigraph
    - colors
    - legend
    - jupyter widgets
 
-Lesson 4.) Networkx: You've got a Friend in me
+Lesson 4.) Networkx
 
    - something to calculate
    - something to plot
@@ -41,7 +41,7 @@ Lesson 4.) Networkx: You've got a Friend in me
    - write a Louvain community detection
    - Extra: python-igraph, the package of the beast (community detection)
    
-Lesson 5.) Harvest: request and BeautifulSoup
+Lesson 5.) request and BeautifulSoup
 
    - examining the structure of a webpage
    - handling the exceptions
