@@ -66,15 +66,11 @@ _"When you need a hand, take a look at the end of your arm."_, **Ancient Chinese
 [Conda](https://conda.io/docs/index.html)
 
 ### Repositories
-[BitBucket](https://bitbucket.org/product)  
-[GitHub](https://github.com/)  
-[git](https://git-scm.com/)
+They are changing their policy, but essentially [BitBucket](https://bitbucket.org/product) gives **free** private repository, but you have to pay for public ones. Instead, [GitHub](https://github.com/) does the opposite. They both use [git](https://git-scm.com/) for managing the repositories.
 
 ### Handling difficult situations with git
-[Quick tutorial](https://docs.gitlab.com/ee/topics/git/numerous_undo_possibilities_in_git/)  
-[Discussions on StackOverflow](https://stackoverflow.com/questions/44727750/how-do-i-restore-a-previous-version-as-a-new-commit-in-git) 
-[GitHub itself answers](https://blog.github.com/2015-06-08-how-to-undo-almost-anything-with-git/)  
-[When everything is really messed-up](https://git-scm.com/docs/git-merge)
+They are more than you can think about... Here is a [quick tutorial](https://docs.gitlab.com/ee/topics/git/numerous_undo_possibilities_in_git/), here you can fine an interesting [discussions on StackOverflow](https://stackoverflow.com/questions/44727750/how-do-i-restore-a-previous-version-as-a-new-commit-in-git), otherwise 
+[GitHub itself tries to answer to possible issues](https://blog.github.com/2015-06-08-how-to-undo-almost-anything-with-git/). Anyway, when everything is messed up, pray your favorite divinity and try [this](https://git-scm.com/docs/git-merge).
 
 ### Jupyter
 [Jupyter](http://jupyter.org/index.html)  
