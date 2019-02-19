@@ -31,7 +31,7 @@ Lesson 2) Numpy:
    - save everything somewhere
    
 Lesson 2.0.1) Numpy Random and Random Graphs
-   - basic random submodule function for the definition of a Random Graph/Configuration Model as benchmarks
+   - basic random submodule functions for the definition of a Random Graph/Configuration Model as benchmarks
    
 Lesson 2.1) Pandas
    - extra
