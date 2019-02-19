@@ -3,7 +3,7 @@ AA 2018/2019) Python and Network class @IMT Lucca
 
 The course intend to provide an introduction to programming in python. The application are going to be application to the analysis of complex networks.
 
-## Structure of the course (more for Fabio than for others...)
+## Structure of the course:
 Lesson -1) Installation and why
    - Conda and virtual environments
    - Github
@@ -83,12 +83,12 @@ _"When you need a hand, take a look at the end of your arm."_, **Ancient Chinese
 [Jupyter configurator](https://github.com/Jupyter-contrib/jupyter_nbextensions_configurator)
 
 ### Networks
-[NetworkX](https://networkx.github.io/documentation/stable/index.html)  
-Not covered, but really useful [python-igraph](http://igraph.org/python/)
+[NetworkX](https://networkx.github.io/documentation/stable/index.html)<br/> 
+[python-igraph](http://igraph.org/python/) was not covered by the lectures, but really useful.
 
 ### Numpy, Scipy, Pandas
-[Numpy](http://www.numpy.org/ "The best module ever")  
-We did not used it, but [Scipy](https://scipy.org/) is part of the family of Numpy and Pandas and has submodules of statistics, equation solvers among many others...
+[Numpy](http://www.numpy.org/ "The best module ever")<br/>
+We did not used it, but [Scipy](https://scipy.org/) is part of the family of Numpy and Pandas and has submodules of statistics, equation solvers among many others...<br/>
 [Pandas](http://pandas.pydata.org/pandas-docs/stable/index.html#)
 
 ### Matplotlib
@@ -97,6 +97,6 @@ We did not used it, but [Scipy](https://scipy.org/) is part of the family of Num
 [Matplotlib colors maps](https://matplotlib.org/examples/color/colormaps_reference.html "Something soopercool!")
 
 ### Some tricks
-The [Remote Notebook](https://coderwall.com/p/ohk6cg/remote-access-to-ipython-notebooks-via-ssh) guide teaches how to use a jupyter notebook remotely from a server.
-[tqdm](https://github.com/tqdm/tqdm) is a cool way to have a progress bar in your loops
+The [Remote Notebook](https://coderwall.com/p/ohk6cg/remote-access-to-ipython-notebooks-via-ssh) guide teaches how to use a jupyter notebook remotely from a server.<br/>
+[tqdm](https://github.com/tqdm/tqdm) is a cool way to have a progress bar in your loops<br/>
 [Jupyter Widgets](https://ipywidgets.readthedocs.io/en/stable/examples/Widget%20Basics.html) are cool, but sometimes it's more annoying fixing them than the beauty they add to your notebook.
