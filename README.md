@@ -21,7 +21,7 @@ Lesson 1) Still basics
    - Function 
    - Files
    
-Lesson 2) Numpy:
+Lesson 2.0.0) Numpy:
    - numpy arrays and functions of numpy arrays
    - numpy arrays with structured data
    - load files/save files
