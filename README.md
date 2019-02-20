@@ -39,7 +39,7 @@ Lesson 2.1) Pandas
 Lesson 3) Matplotlib 
    - Structure of a matplotlib plot
    - plots, scatters, histograms
-   - legend
+   - legendary legends
 
 Lesson 4) request and BeautifulSoup: how to get the data
 
@@ -47,7 +47,7 @@ Lesson 4) request and BeautifulSoup: how to get the data
    - handling the exceptions
    - how to get the data we worked on
    
-Lesson 5.) NetworkX
+Lesson 5) NetworkX
 
 
 
