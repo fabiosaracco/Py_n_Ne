@@ -20,6 +20,7 @@ Lesson 1) Still basics
    - Dictionaries
    - Function 
    - Files
+   - Debugging: raise, try/except, asser
    
 Lesson 2.0.0) Numpy:
    - numpy arrays and functions of numpy arrays
